@@ -1,0 +1,28 @@
+.container{
+  width: 270PX;
+  height:1400pX;
+  color: brown;
+  background-color: bisque;
+  width:100vw;
+}
+
+.child1{
+  width: 200PX;
+  height:70PX;
+  background-color: rgb(138, 132, 132);
+}
+
+.child2{
+  width: 200PX;
+  height:70PX;
+  background-color:aqua;
+  margin-top: 10px;
+  position: sticky;
+  top:30px;
+}
+.child3{
+  width: 200PX;
+  height:70PX;
+  background-color:gold;
+  margin-top: 10px;
+}

@@ -1,0 +1,21 @@
+h1{
+  color: blue;
+}
+h2{
+  color: green;
+}
+
+@media only screen and (max-width:1200px) {
+  h1{
+    color: red;
+    font-size: xx-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  
+  h2{
+    color: green;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+}

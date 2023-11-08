@@ -170,6 +170,7 @@ figcaption{
   position: absolute;
   top: 155px;
   right: 330px;
+  left: auto;
 }
 .remove1,.remove2{
   color: white;
